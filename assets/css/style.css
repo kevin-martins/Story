@@ -19,6 +19,12 @@
     background-repeat: no-repeat;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+    border: 3px black solid;
+}
+
 .rightPage {
     width: 100%;
     height: 100%;
@@ -37,6 +43,34 @@
     text-align: center;
     width: 100%;
     height: 100%;
+    overflow: hidden;
+}
+
+#storyTitle {
+    font-size: 3rem;
+}
+
+#storyText {
+    font-size: 1.3rem;
+    margin: 20px 0px;
+}
+
+.questions {
+    margin-bottom: 7px;
+}
+
+button {
+    width: 93%;
+    padding: 10px;
+    background: rgba(143, 143, 143, .8);
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: rgba(143, 143, 143, .6);
+    box-shadow: -0px -0px 15px black;
 }
 
 .leftPageFooter {
