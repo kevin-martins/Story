@@ -141,7 +141,7 @@ const story = [
                 target: 12
             },
             {
-                question: 'Dancing around his house',
+                question: 'Dancing around his house.',
                 target: 11
             }
         ],
@@ -154,11 +154,11 @@ const story = [
         state: 'going to jail',
         questions: [
             {
-                question: 'Restart',
+                question: 'Restart.',
                 target: 1
             },
             {
-                question: 'Home',
+                question: 'Home.',
                 target: 0
             }
         ],
@@ -175,7 +175,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can',
+                question: 'Run as fast as you can.',
                 target: 16
             }
         ],
@@ -192,7 +192,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can',
+                question: 'Run as fast as you can.',
                 target: 16
             }
         ],
@@ -209,7 +209,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can',
+                question: 'Run as fast as you can.',
                 target: 16
             }
         ],
@@ -222,11 +222,11 @@ const story = [
         state: 'dead sqeezed by dragon\'s tail',
         questions: [
             {
-                question: 'Restart',
+                question: 'Restart.',
                 target: 1
             },
             {
-                question: 'Home',
+                question: 'Home.',
                 target: 0
             }
         ],
@@ -239,11 +239,11 @@ const story = [
         state: 'dead smashed by a dragon\'s bite',
         questions: [
             {
-                question: 'Restart',
+                question: 'Restart.',
                 target: 1
             },
             {
-                question: 'Home',
+                question: 'Home.',
                 target: 0
             }
         ],
@@ -256,11 +256,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Add more fire particle to it.',
+                question: 'Add more fire particle.',
                 target: 17
             },
             {
-                question: 'Add gas particle to it.',
+                question: 'Add gas particle.',
                 target: 18
             }
         ],
@@ -273,11 +273,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Add more water particle to it.',
+                question: 'Add more water particle.',
                 target: 19
             },
             {
-                question: 'Add ice particle to it.',
+                question: 'Add ice particle.',
                 target: 20
             }
         ],
@@ -290,11 +290,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Add more lightning particle to it',
+                question: 'Add more lightning particle',
                 target: 21
             },
             {
-                question: 'Add void particle to it.',
+                question: 'Add void particle.',
                 target: 22
             }
         ],
@@ -448,7 +448,7 @@ const story = [
         id: 26,
         title: '',
         text: "Fire territory with water power ? Yeah great choice !",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Cast a gigantic water splash attack.',
@@ -465,7 +465,7 @@ const story = [
         id: 27,
         title: '',
         text: "Water territory with water power ? Not a good idea !",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Cast a gigantic water splash attack.',
@@ -520,7 +520,7 @@ const story = [
         id: 29,
         title: '',
         text: "Fire territory with lightning power ? Yeah great choice !",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Cast a gigantic Zeus thunder attack.',
@@ -537,7 +537,7 @@ const story = [
         id: 30,
         title: '',
         text: "Water territory with lightning power ? Not a good idea !",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Cast a gigantic Zeus thunder attack.',
@@ -571,7 +571,7 @@ const story = [
         id: 32,
         title: '',
         text: "You're back home, what to do ?",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Take the portal to the fire dragon\'s territory.',
@@ -596,7 +596,7 @@ const story = [
         id: 33,
         title: '',
         text: "You're back home, what to do ?",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Take the portal to the fire dragon\'s territory.',
@@ -621,7 +621,7 @@ const story = [
         id: 34,
         title: '',
         text: "You're back home, what to do ?",
-        state: 'you dead',
+        state: '',
         questions: [
             {
                 question: 'Take the portal to the fire dragon\'s territory.',
@@ -763,4 +763,3 @@ function storyPrint(page) {
 }
 
 getThePage(0)
-console.log(story.length)
