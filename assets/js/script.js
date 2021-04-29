@@ -107,7 +107,7 @@ const story = [
                 target: 12
             },
             {
-                question: 'Waiting on this beautiful view.',
+                question: 'Waiting on this beautiful view',
                 target: 11
             }
         ],
@@ -124,7 +124,7 @@ const story = [
                 target: 12
             },
             {
-                question: 'Swimming on his drowned grass.',
+                question: 'Swimming on his drowned grass',
                 target: 11
             }
         ],
@@ -141,7 +141,7 @@ const story = [
                 target: 12
             },
             {
-                question: 'Dancing around his house.',
+                question: 'Dancing around his house',
                 target: 11
             }
         ],
@@ -154,11 +154,11 @@ const story = [
         state: 'going to jail',
         questions: [
             {
-                question: 'Restart.',
+                question: 'Restart',
                 target: 1
             },
             {
-                question: 'Home.',
+                question: 'Home',
                 target: 0
             }
         ],
@@ -175,7 +175,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can.',
+                question: 'Run as fast as you can',
                 target: 16
             }
         ],
@@ -192,7 +192,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can.',
+                question: 'Run as fast as you can',
                 target: 16
             }
         ],
@@ -209,7 +209,7 @@ const story = [
                 target: 15
             },
             {
-                question: 'Run as fast as you can.',
+                question: 'Run as fast as you can',
                 target: 16
             }
         ],
@@ -222,11 +222,11 @@ const story = [
         state: 'dead sqeezed by dragon\'s tail',
         questions: [
             {
-                question: 'Restart.',
+                question: 'Restart',
                 target: 1
             },
             {
-                question: 'Home.',
+                question: 'Home',
                 target: 0
             }
         ],
@@ -239,11 +239,11 @@ const story = [
         state: 'dead smashed by a dragon\'s bite',
         questions: [
             {
-                question: 'Restart.',
+                question: 'Restart',
                 target: 1
             },
             {
-                question: 'Home.',
+                question: 'Home',
                 target: 0
             }
         ],
@@ -256,11 +256,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Add more fire particle.',
+                question: 'Add more fire particle',
                 target: 17
             },
             {
-                question: 'Add gas particle.',
+                question: 'Add gas particle',
                 target: 18
             }
         ],
@@ -273,11 +273,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Add more water particle.',
+                question: 'Add more water particle',
                 target: 19
             },
             {
-                question: 'Add ice particle.',
+                question: 'Add ice particle',
                 target: 20
             }
         ],
@@ -294,7 +294,7 @@ const story = [
                 target: 21
             },
             {
-                question: 'Add void particle.',
+                question: 'Add void particle',
                 target: 22
             }
         ],
@@ -358,15 +358,15 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 23
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 24
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 25
             }
         ],
@@ -379,11 +379,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic fire ball.',
+                question: 'Cast a gigantic fire ball',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 32
             }
         ],
@@ -396,11 +396,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic fire ball.',
+                question: 'Cast a gigantic fire ball',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 32
             }
         ],
@@ -413,11 +413,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic fire ball.',
+                question: 'Cast a gigantic fire ball',
                 target: 37
             },
             {
-                question: 'Go home without attacking, it wasn\'t a good idea.',
+                question: 'Go home without attacking, it wasn\'t a good idea',
                 target: 35
             }
         ],
@@ -426,19 +426,19 @@ const story = [
     {
         id: 19,
         title: 'Dragon\'s territory',
-        text: "Pretty nice, my weapon blow so much fire energie now !",
+        text: "Pretty nice, my weapon blow so much water energie now !",
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 26
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 27
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 28
             }
         ],
@@ -451,11 +451,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic water splash attack.',
+                question: 'Cast a gigantic water splash attack',
                 target: 37
             },
             {
-                question: 'Go home without attacking, it wasn\'t a good idea.',
+                question: 'Go home without attacking, it wasn\'t a good idea',
                 target: 35
             }
         ],
@@ -468,11 +468,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic water splash attack.',
+                question: 'Cast a gigantic water splash attack',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 33
             }
         ],
@@ -485,11 +485,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic water splash attack.',
+                question: 'Cast a gigantic water splash attack',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 33
             }
         ],
@@ -498,19 +498,19 @@ const story = [
     {
         id: 21,
         title: 'Dragon\'s territory',
-        text: "Pretty nice, my weapon blow so much fire energie now !",
+        text: "Pretty nice, my weapon blow so much lightning energie now !",
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 29
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 30
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 31
             }
         ],
@@ -523,11 +523,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic Zeus thunder attack.',
+                question: 'Cast a gigantic Zeus thunder attack',
                 target: 37
             },
             {
-                question: 'Go home without attacking, it wasn\'t a good idea.',
+                question: 'Go home without attacking, it wasn\'t a good idea',
                 target: 35
             }
         ],
@@ -540,11 +540,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic Zeus thunder attack.',
+                question: 'Cast a gigantic Zeus thunder attack',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 34
             }
         ],
@@ -557,11 +557,11 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Cast a gigantic Zeus thunder attack.',
+                question: 'Cast a gigantic Zeus thunder attack',
                 target: 36
             },
             {
-                question: 'Back home for a better choice.',
+                question: 'Back home for a better choice',
                 target: 34
             }
         ],
@@ -574,19 +574,19 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 23
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 24
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 25
             },
             {
-                question: 'Nothing, let\'s all dragon be in peace.',
+                question: 'Nothing, let\'s all dragon be in peace',
                 target: 35
             }
         ],
@@ -599,19 +599,19 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 26
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 27
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 28
             },
             {
-                question: 'Nothing, let\'s all dragon be in peace.',
+                question: 'Nothing, let\'s all dragon be in peace',
                 target: 35
             }
         ],
@@ -624,19 +624,19 @@ const story = [
         state: '',
         questions: [
             {
-                question: 'Take the portal to the fire dragon\'s territory.',
+                question: 'Take the portal to the fire dragon\'s territory',
                 target: 29
             },
             {
-                question: 'Take the portal to the water dragon\'s territory.',
+                question: 'Take the portal to the water dragon\'s territory',
                 target: 30
             },
             {
-                question: 'Take the portal to the lightning dragon\'s territory.',
+                question: 'Take the portal to the lightning dragon\'s territory',
                 target: 31
             },
             {
-                question: 'Nothing, let\'s all dragon be in peace.',
+                question: 'Nothing, let\'s all dragon be in peace',
                 target: 35
             }
         ],
@@ -679,7 +679,7 @@ const story = [
     {
         id: 37,
         title: 'Quest of power',
-        text: "Get near of a dead dragon",
+        text: "Get near of the dead dragon",
         state: '',
         questions: [
             {
