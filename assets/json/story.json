@@ -163,7 +163,7 @@
     },
     {
         "id": 12,
-        "image": "./assets/img/waterDragon.png",
+        "image": "./assets/img/waterDragon.jpg",
         "title": "Dragon's fight",
         "text": "Oh my god ! A Dragon, finally came !",
         "state": "",
@@ -181,7 +181,7 @@
     },
     {
         "id": 13,
-        "image": "./assets/img/lightningDragon.png",
+        "image": "./assets/img/lightningDragon.jpg",
         "title": "Dragon's fight",
         "text": "Oh my god ! A Dragon, finally came !",
         "state": "",
@@ -419,7 +419,7 @@
     },
     {
         "id": 25,
-        "image": "./assets/img/fireDragon.jpg",
+        "image": "./assets/img/fireDragon.png",
         "title": "",
         "text": "Lightning territory with fire power ? Yeah great choice !",
         "state": "",
