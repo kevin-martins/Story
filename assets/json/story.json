@@ -217,7 +217,7 @@
     },
     {
         "id": 15,
-        "image": "./assets/img/lightningDragonAttack.png",
+        "image": "./assets/img/lightningDragonAttack.jpg",
         "title": "",
         "text": "What ?! My super attack didn't scratch him at all !!",
         "state": "dead squeezed by the power pressure",
@@ -235,7 +235,7 @@
     },
     {
         "id": 16,
-        "image": "./assets/img/dragonAttack.jpg",
+        "image": "./assets/img/dragonAttack.png",
         "title": "",
         "text": "Damn he's fast !",
         "state": "you're smashed",
@@ -363,7 +363,7 @@
         "id": 17,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much fire energie now. I'm finally ready !",
+        "text": "Pretty nice, my weapon blow so much lightning energie now ! I'm finally ready to go. Which portal should I use ?",
         "state": "",
         "questions": [
             {
@@ -439,7 +439,7 @@
         "id": 19,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much water energie now. I'm finally ready !",
+        "text": "Pretty nice, my weapon blow so much lightning energie now ! I'm finally ready to go. Which portal should I use ?",
         "state": "",
         "questions": [
             {
@@ -515,7 +515,7 @@
         "id": 21,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much lightning energie now. I'm finally ready !",
+        "text": "Pretty nice, my weapon blow so much lightning energie now ! I'm finally ready to go. Which portal should I use ?",
         "state": "",
         "questions": [
             {
@@ -741,7 +741,7 @@
         "id": 39,
         "image": "./assets/img/dragonClaw.jpg",
         "title": "Quest of power",
-        "text": "Get near of the dead dragon",
+        "text": "Get near of the dead dragon.",
         "state": "",
         "questions": [
             {
@@ -755,7 +755,7 @@
         "id": 40,
         "image": "./assets/img/clawPotion.jpg",
         "title": "",
-        "text": "Yeah I finally did it !",
+        "text": "Yeah I finally did it ! I succesfully created the magic cancel potion",
         "state": "",
         "questions": [
             {
