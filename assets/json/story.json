@@ -363,7 +363,7 @@
         "id": 17,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much fire energie now !",
+        "text": "Pretty nice, my weapon blow so much fire energie now. I'm finally ready !",
         "state": "",
         "questions": [
             {
@@ -383,7 +383,7 @@
     },
     {
         "id": 23,
-        "image": "./assets/img/fireDragon.jpg",
+        "image": "./assets/img/fireDragon.png",
         "title": "",
         "text": "Fire territory with fire power ? Not a good idea !",
         "state": "",
@@ -401,7 +401,7 @@
     },
     {
         "id": 24,
-        "image": "./assets/img/fireDragon.jpg",
+        "image": "./assets/img/fireDragon.png",
         "title": "",
         "text": "Water territory with fire power ? Not a good idea !",
         "state": "",
@@ -439,7 +439,7 @@
         "id": 19,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much water energie now !",
+        "text": "Pretty nice, my weapon blow so much water energie now. I'm finally ready !",
         "state": "",
         "questions": [
             {
@@ -515,7 +515,7 @@
         "id": 21,
         "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
-        "text": "Pretty nice, my weapon blow so much lightning energie now !",
+        "text": "Pretty nice, my weapon blow so much lightning energie now. I'm finally ready !",
         "state": "",
         "questions": [
             {
