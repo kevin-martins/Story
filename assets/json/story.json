@@ -255,7 +255,7 @@
         "id": 6,
         "image": "./assets/img/magicLab.jpg",
         "title": "",
-        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "text": "Yeah it works ! The lab is really usefull but my weapon is not powerfull at all. Let's upgrade this !",
         "state": "",
         "questions": [
             {
@@ -273,7 +273,7 @@
         "id": 8,
         "image": "./assets/img/magicLab.jpg",
         "title": "",
-        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "text": "Yeah it works ! The lab is really usefull but my weapon is not powerfull at all. Let's upgrade this !",
         "state": "",
         "questions": [
             {
@@ -291,7 +291,7 @@
         "id": 10,
         "image": "./assets/img/magicLab.jpg",
         "title": "",
-        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "text": "Yeah it works ! The lab is really usefull but my weapon is not powerfull at all. Let's upgrade this !",
         "state": "",
         "questions": [
             {
@@ -685,7 +685,7 @@
     },
     {
         "id": 36,
-        "image": "./assets/img/fireDragonAttack.jpg",
+        "image": "./assets/img/fireDragonAttack.png",
         "title": "",
         "text": "Fuck, my super attack isn't effective at all...",
         "state": "dead by dragon's pressure",
