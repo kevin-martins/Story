@@ -1,0 +1,772 @@
+[
+    {
+        "id": 0,
+        "image": "./assets/img/first.jpg",
+        "title": "Super adventure",
+        "text": "In this book you'll choose Jonh's futur. John is an human being free of magic power. A great futur is looking for him, would you help him getting it ?",
+        "state": "",
+        "questions": [
+            {
+                "question": "Start",
+                "target": 1
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 1,
+        "image": "./assets/img/elements.jpg",
+        "title": "",
+        "text": "I'm Jonh Markes, a free magic being in a magic world. How do I do to survive ? I don't even know, by chance perhaps... Today I got a very important mission ! I need to get a Dragon's Claw. Why ? It cancel magic so with that I'll get some respect ! First things first, I need to craft a strong weapon",
+        "state": "",
+        "questions": [
+            {
+                "question": "Add fire particle to the weapon",
+                "target": 2
+            },
+            {
+                "question": "Add water particle to the weapon",
+                "target": 3
+            },
+            {
+                "question": "Add lightning particle to the weapon",
+                "target": 4
+            }
+        ],
+        "chapter": "Super adventure"
+    },
+    {
+        "id": 2,
+        "image": "./assets/img/fire.jpg",
+        "title": "Test experimentation",
+        "text": "Fire particle ? Let's try this out !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Try it on Bary's camp",
+                "target": 5
+            },
+            {
+                "question": "Try it on the experimentation lab",
+                "target": 6
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 3,
+        "image": "./assets/img/water.jpg",
+        "title": "Test experimentation",
+        "text": "Water particle ? Let's try this out !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Try it on Bary's garden",
+                "target": 7
+            },
+            {
+                "question": "Try it on the experimentation lab",
+                "target": 8
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 4,
+        "image": "./assets/img/lightning.jpg",
+        "title": "Test experimentation",
+        "text": "Lightning particle ? Let's try this out !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Try it on Bary's house",
+                "target": 9
+            },
+            {
+                "question": "Try it on the experimentation lab",
+                "target": 10
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 5,
+        "image": "./assets/img/burningCamp.jpg",
+        "title": "",
+        "text": "Yeah it works ! Everything is on fire ! Fuck you Bary !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Run away",
+                "target": 12
+            },
+            {
+                "question": "Waiting on this beautiful view",
+                "target": 11
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 7,
+        "image": "./assets/img/drownGrass.jpg",
+        "title": "",
+        "text": "Yeah it works ! Everything is drown ! Fuck you Bary !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Run away",
+                "target": 12
+            },
+            {
+                "question": "Swimming on his drowned grass",
+                "target": 11
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 9,
+        "image": "./assets/img/lightningHouse.jpg",
+        "title": "",
+        "text": "Yeah it works ! His house is like trash now, ahah ! Fuck you Bary !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Run away",
+                "target": 12
+            },
+            {
+                "question": "Dancing around his house",
+                "target": 11
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 11,
+        "image": "./assets/img/magicMaster.jpg",
+        "title": "Meeting",
+        "text": "Ohhh fuck, the magic master is here !",
+        "state": "dead",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 12,
+        "image": "./assets/img/dragonCame.png",
+        "title": "Dragon's fight",
+        "text": "Oh my god ! A Dragon, finally came !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a fire ball !",
+                "target": 15
+            },
+            {
+                "question": "Run as fast as you can",
+                "target": 16
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 13,
+        "image": "./assets/img/dragonCame.png",
+        "title": "Dragon's fight",
+        "text": "Oh my god ! A Dragon, finally came !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a water splash attack !",
+                "target": 15
+            },
+            {
+                "question": "Run as fast as you can",
+                "target": 16
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 14,
+        "image": "./assets/img/dragonCame.png",
+        "title": "Dragon's fight",
+        "text": "Oh my god ! A Dragon, finally came !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a Zeus lightning attack !",
+                "target": 15
+            },
+            {
+                "question": "Run as fast as you can",
+                "target": 16
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 15,
+        "image": "./assets/img/dragonAttack.png",
+        "title": "",
+        "text": "What ?! My super attack didn't scratch him at all !!",
+        "state": "dead squeezed by the power pressure",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Dragon's fight"
+    },
+    {
+        "id": 16,
+        "image": "./assets/img/dragonFire.jpg",
+        "title": "",
+        "text": "Damn he's fast !",
+        "state": "burned alive",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Dragon's fight"
+    },
+    {
+        "id": 6,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Add more fire particle",
+                "target": 17
+            },
+            {
+                "question": "Add gas particle",
+                "target": 18
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 8,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Add more water particle",
+                "target": 19
+            },
+            {
+                "question": "Add ice particle",
+                "target": 20
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 10,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "Yeah it works ! The lab is really usefull but it's not enough powerfull. Let's upgrade this !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Add more lightning particle",
+                "target": 21
+            },
+            {
+                "question": "Add void particle",
+                "target": 22
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 18,
+        "image": "./assets/img/explosion.jpg",
+        "title": "",
+        "text": "BOOOM ! It exploded.",
+        "state": "you dead",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 20,
+        "image": "./assets/img/iceBlock.jpg",
+        "title": "",
+        "text": "Water on your body get frozen instantly !",
+        "state": "you dead",
+        "questions": [
+            {
+                "question": "Restart", 
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 22,
+        "image": "./assets/img/vortex.jpg",
+        "title": "",
+        "text": "Voooom, you created a vortex and you get caught in !",
+        "state": "you dead",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Test experimentation"
+    },
+    {
+        "id": 17,
+        "image": "./assets/img/fireBlow.jpg",
+        "title": "Dragon's territory",
+        "text": "Pretty nice, my weapon blow so much fire energie now !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 23
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 24
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 25
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 23,
+        "image": "./assets/img/firePortal.jpg",
+        "title": "",
+        "text": "Fire territory with fire power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic fire ball",
+                "target": 36
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 32
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 24,
+        "image": "./assets/img/firePortal.jpg",
+        "title": "",
+        "text": "Water territory with fire power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic fire ball",
+                "target": 36
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 32
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 25,
+        "image": "./assets/img/firePortal.jpg",
+        "title": "",
+        "text": "Lightning territory with fire power ? Yeah great choice !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic fire ball",
+                "target": 39
+            },
+            {
+                "question": "Go home without attacking, it wasn't a good idea",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 19,
+        "image": "./assets/img/waterBlow.jpg",
+        "title": "Dragon's territory",
+        "text": "Pretty nice, my weapon blow so much water energie now !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 26
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 27
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 28
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 26,
+        "image": "./assets/img/waterPortal.jpg",
+        "title": "",
+        "text": "Fire territory with water power ? Yeah great choice !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic water splash attack",
+                "target": 39
+            },
+            {
+                "question": "Go home without attacking, it wasn't a good idea",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 27,
+        "image": "./assets/img/waterPortal.jpg",
+        "title": "",
+        "text": "Water territory with water power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic water splash attack",
+                "target": 37
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 33
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 28,
+        "image": "./assets/img/waterPortal.jpg",
+        "title": "",
+        "text": "Lightning territory with water power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic water splash attack",
+                "target": 37
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 33
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 21,
+        "image": "./assets/img/lightningBlow.jpg",
+        "title": "Dragon's territory",
+        "text": "Pretty nice, my weapon blow so much lightning energie now !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 29
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 30
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 31
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 29,
+        "image": "./assets/img/lightningPortal.jpg",
+        "title": "",
+        "text": "Fire territory with lightning power ? Yeah great choice !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic Zeus thunder attack",
+                "target": 39
+            },
+            {
+                "question": "Go home without attacking, it wasn't a good idea",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 30,
+        "image": "./assets/img/lightningPortal.jpg",
+        "title": "",
+        "text": "Water territory with lightning power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic Zeus thunder attack",
+                "target": 38
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 34
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 31,
+        "image": "./assets/img/lightningPortal.jpg",
+        "title": "",
+        "text": "Lightning territory with lightning power ? Not a good idea !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cast a gigantic Zeus thunder attack",
+                "target": 38
+            },
+            {
+                "question": "Back home for a better choice",
+                "target": 34
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 32,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "You're back home, what to do ?",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 23
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 24
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 25
+            },
+            {
+                "question": "Nothing, let's all dragon be in peace",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 33,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "You're back home, what to do ?",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 26
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 27
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 28
+            },
+            {
+                "question": "Nothing, let's all dragon be in peace",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 34,
+        "image": "./assets/img/magicLab.jpg",
+        "title": "",
+        "text": "You're back home, what to do ?",
+        "state": "",
+        "questions": [
+            {
+                "question": "Take the portal to the fire dragon's territory",
+                "target": 29
+            },
+            {
+                "question": "Take the portal to the water dragon's territory",
+                "target": 30
+            },
+            {
+                "question": "Take the portal to the lightning dragon's territory",
+                "target": 31
+            },
+            {
+                "question": "Nothing, let's all dragon be in peace",
+                "target": 35
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 35,
+        "image": "./assets/img/calmDragon.jpg",
+        "title": "Ready to rest",
+        "text": "You probably saved billions of dragons, you did a great choice.",
+        "state": "",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 36,
+        "image": "./assets/img/fireDragonAttack.jpg",
+        "title": "",
+        "text": "Fuck, my super attack isn't effective at all...",
+        "state": "dead by dragon's pressure",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 37,
+        "image": "./assets/img/waterDragonAttack.jpg",
+        "title": "",
+        "text": "Fuck, my super attack isn't effective at all...",
+        "state": "dead by dragon's pressure",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 38,
+        "image": "./assets/img/lightnngDragonAttack.jpg",
+        "title": "",
+        "text": "Fuck, my super attack isn't effective at all...",
+        "state": "dead smash bby speed",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Dragon's territory"
+    },
+    {
+        "id": 39,
+        "image": "./assets/img/dragonClaw.jpg",
+        "title": "Quest of power",
+        "text": "Get near of the dead dragon",
+        "state": "",
+        "questions": [
+            {
+                "question": "Cut off his claw",
+                "target": 40
+            }
+        ],
+        "chapter": ""
+    },
+    {
+        "id": 40,
+        "image": "./assets/img/clawPotion.jpg",
+        "title": "",
+        "text": "Yeah I finally did it !",
+        "state": "",
+        "questions": [
+            {
+                "question": "Restart",
+                "target": 1
+            },
+            {
+                "question": "Home",
+                "target": 0
+            }
+        ],
+        "chapter": "Quest of power"
+    }
+]
