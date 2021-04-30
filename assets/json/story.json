@@ -109,14 +109,14 @@
     },
     {
         "id": 7,
-        "image": "./assets/img/drownGrass.jpg",
+        "image": "./assets/img/drownGrass.jpeg",
         "title": "",
         "text": "Yeah it works ! Everything is drown ! Fuck you Bary !",
         "state": "",
         "questions": [
             {
                 "question": "Run away",
-                "target": 12
+                "target": 13
             },
             {
                 "question": "Swimming on his drowned grass",
@@ -134,7 +134,7 @@
         "questions": [
             {
                 "question": "Run away",
-                "target": 12
+                "target": 14
             },
             {
                 "question": "Dancing around his house",
@@ -163,7 +163,7 @@
     },
     {
         "id": 12,
-        "image": "./assets/img/dragonCame.png",
+        "image": "./assets/img/waterDragon.png",
         "title": "Dragon's fight",
         "text": "Oh my god ! A Dragon, finally came !",
         "state": "",
@@ -181,7 +181,7 @@
     },
     {
         "id": 13,
-        "image": "./assets/img/dragonCame.png",
+        "image": "./assets/img/lightningDragon.png",
         "title": "Dragon's fight",
         "text": "Oh my god ! A Dragon, finally came !",
         "state": "",
@@ -199,7 +199,7 @@
     },
     {
         "id": 14,
-        "image": "./assets/img/dragonCame.png",
+        "image": "./assets/img/fireDragon.png",
         "title": "Dragon's fight",
         "text": "Oh my god ! A Dragon, finally came !",
         "state": "",
@@ -217,7 +217,7 @@
     },
     {
         "id": 15,
-        "image": "./assets/img/dragonAttack.png",
+        "image": "./assets/img/lightningDragonAttack.png",
         "title": "",
         "text": "What ?! My super attack didn't scratch him at all !!",
         "state": "dead squeezed by the power pressure",
@@ -235,10 +235,10 @@
     },
     {
         "id": 16,
-        "image": "./assets/img/dragonFire.jpg",
+        "image": "./assets/img/dragonAttack.jpg",
         "title": "",
         "text": "Damn he's fast !",
-        "state": "burned alive",
+        "state": "you're smashed",
         "questions": [
             {
                 "question": "Restart",
@@ -361,7 +361,7 @@
     },
     {
         "id": 17,
-        "image": "./assets/img/fireBlow.jpg",
+        "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
         "text": "Pretty nice, my weapon blow so much fire energie now !",
         "state": "",
@@ -383,7 +383,7 @@
     },
     {
         "id": 23,
-        "image": "./assets/img/firePortal.jpg",
+        "image": "./assets/img/fireDragon.jpg",
         "title": "",
         "text": "Fire territory with fire power ? Not a good idea !",
         "state": "",
@@ -401,7 +401,7 @@
     },
     {
         "id": 24,
-        "image": "./assets/img/firePortal.jpg",
+        "image": "./assets/img/fireDragon.jpg",
         "title": "",
         "text": "Water territory with fire power ? Not a good idea !",
         "state": "",
@@ -419,7 +419,7 @@
     },
     {
         "id": 25,
-        "image": "./assets/img/firePortal.jpg",
+        "image": "./assets/img/fireDragon.jpg",
         "title": "",
         "text": "Lightning territory with fire power ? Yeah great choice !",
         "state": "",
@@ -437,7 +437,7 @@
     },
     {
         "id": 19,
-        "image": "./assets/img/waterBlow.jpg",
+        "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
         "text": "Pretty nice, my weapon blow so much water energie now !",
         "state": "",
@@ -459,7 +459,7 @@
     },
     {
         "id": 26,
-        "image": "./assets/img/waterPortal.jpg",
+        "image": "./assets/img/waterDragon.jpg",
         "title": "",
         "text": "Fire territory with water power ? Yeah great choice !",
         "state": "",
@@ -477,7 +477,7 @@
     },
     {
         "id": 27,
-        "image": "./assets/img/waterPortal.jpg",
+        "image": "./assets/img/waterDragon.jpg",
         "title": "",
         "text": "Water territory with water power ? Not a good idea !",
         "state": "",
@@ -495,7 +495,7 @@
     },
     {
         "id": 28,
-        "image": "./assets/img/waterPortal.jpg",
+        "image": "./assets/img/waterDragon.jpg",
         "title": "",
         "text": "Lightning territory with water power ? Not a good idea !",
         "state": "",
@@ -513,7 +513,7 @@
     },
     {
         "id": 21,
-        "image": "./assets/img/lightningBlow.jpg",
+        "image": "./assets/img/portal.jpg",
         "title": "Dragon's territory",
         "text": "Pretty nice, my weapon blow so much lightning energie now !",
         "state": "",
@@ -535,7 +535,7 @@
     },
     {
         "id": 29,
-        "image": "./assets/img/lightningPortal.jpg",
+        "image": "./assets/img/lightningDragon.jpg",
         "title": "",
         "text": "Fire territory with lightning power ? Yeah great choice !",
         "state": "",
@@ -553,7 +553,7 @@
     },
     {
         "id": 30,
-        "image": "./assets/img/lightningPortal.jpg",
+        "image": "./assets/img/lightningDragon.jpg",
         "title": "",
         "text": "Water territory with lightning power ? Not a good idea !",
         "state": "",
@@ -571,7 +571,7 @@
     },
     {
         "id": 31,
-        "image": "./assets/img/lightningPortal.jpg",
+        "image": "./assets/img/lightningDragon.jpg",
         "title": "",
         "text": "Lightning territory with lightning power ? Not a good idea !",
         "state": "",
@@ -706,7 +706,7 @@
         "image": "./assets/img/waterDragonAttack.jpg",
         "title": "",
         "text": "Fuck, my super attack isn't effective at all...",
-        "state": "dead by dragon's pressure",
+        "state": "dead drown",
         "questions": [
             {
                 "question": "Restart",
@@ -721,10 +721,10 @@
     },
     {
         "id": 38,
-        "image": "./assets/img/lightnngDragonAttack.jpg",
+        "image": "./assets/img/lightningDragonAttack.jpg",
         "title": "",
         "text": "Fuck, my super attack isn't effective at all...",
-        "state": "dead smash bby speed",
+        "state": "dead smash by speed",
         "questions": [
             {
                 "question": "Restart",
